@@ -1,0 +1,8 @@
+body{
+    background-color: #c3cee0;
+}
+h1,h2{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: #f94f25;
+}
+document.getElementByname("result").style.font-size [40];
